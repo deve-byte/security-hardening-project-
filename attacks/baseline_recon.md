@@ -23,3 +23,13 @@ After SSH Exposure:
 - Port 22/tcp open
 - Remote access enabled
 - Increased risk of brute-force attacks
+
+
+Technique: T1110 – Brute Force
+Observed Evidence:
+- Multiple failed SSH authentication attempts
+- Same source IP
+
+
+
+
