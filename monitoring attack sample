@@ -1,1 +1,11 @@
 monitoring/auth_attack_sample.txt
+
+ssh fakeuser@192.168.195.130 
+fakeuser@192.168.195.130's password: 
+Permission denied, please try again.
+fakeuser@192.168.195.130's password: 
+Permission denied, please try again.
+fakeuser@192.168.195.130's password: 
+Connection closed by 192.168.195.130 port 22
+
+
