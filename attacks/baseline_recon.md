@@ -13,3 +13,13 @@ Observations:
 Security Insight:
 - Closed ports reduce risk of remote exploitation
 - Services will be selectively enabled for learning and testing
+
+
+Before SSH:
+- No open ports
+- Minimal attack surface
+
+After SSH Exposure:
+- Port 22/tcp open
+- Remote access enabled
+- Increased risk of brute-force attacks
